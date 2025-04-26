@@ -5,11 +5,11 @@ This repository is a collection of efficient, clean, and well-documented solutio
 
 ---
 
-## 📌 About the Project
+## About the Project
 
-- ✅ Solving algorithmic problems to prepare for technical interviews
-- 💡 Focus on Java implementations with clear logic and modular code
-- 🧪 Test cases included for selected problems
-- 📚 Topics include: Strings, Arrays, Hashing, Trees, Graphs, Dynamic Programming, and more
+- Solving algorithmic problems to prepare for technical interviews
+- Focus on Java implementations with clear logic and modular code
+- Test cases included for selected problems
+- Topics include: Strings, Arrays, Hashing, Trees, Graphs, Dynamic Programming, and more
 
 ---
