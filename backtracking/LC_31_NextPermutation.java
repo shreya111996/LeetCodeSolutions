@@ -11,7 +11,7 @@ public class LC_31_NextPermutation {
      * 
      * SC: O(1) - in-place modification of the input array
      * 
-     * REMEMBER: The next eprmutation is the next greater number that can be formed using (rearranging) the elements in nums array.
+     * REMEMBER: The next permutation is the next greater number that can be formed using (rearranging) the elements in nums array.
      */
 
     public static void nextPermutation(int[] nums) {
