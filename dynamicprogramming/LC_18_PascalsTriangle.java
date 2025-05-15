@@ -7,7 +7,8 @@ public class LC_18_PascalsTriangle {
 
     /**
      * TC: O(N^2) where N is the number of rows
-     * SC: O(N^2) for storing the triangle
+     * SC: O(1) 
+     * (O(N^2) for storing the triangle, but output is not counted in space complexity)
      * 
      * The function generates Pascal's Triangle up to numRows.
      * Each row is built based on the previous row.
