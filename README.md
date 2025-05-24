@@ -9,7 +9,7 @@ This repository is a collection of efficient, clean, and well-documented solutio
 
 - Solving algorithmic problems to prepare for technical interviews
 - Focus on Java implementations with clear logic and modular code
-- Test cases included for selected problems
-- Topics include: Strings, Arrays, Hashing, Trees, Graphs, Dynamic Programming, and more
+- Test cases included for all problem
+- Topics include: Strings, Arrays, HashMap, Trees, Graphs, Dynamic Programming, and more
 
 ---
